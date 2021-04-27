@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on TailTracker Dog Exercise tracker
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Open Data Projects
-- 🤔 I’m looking for help with learn more about 
-- 💬 Ask me about 
+- 🤔 I’m looking for help to learn more about Data liberation / civic hacking. 
+- 💬 Ask me about Spoon. 
 - 📫 How to reach me: olivia@oliviabyrnes.com
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: The smallest McDonald's is made for Bees
